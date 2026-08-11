@@ -75,14 +75,14 @@ I hold a **Master's in Computer Science from the University of Dayton** and a **
 | 🧪 **Fake Review Detection** | ML/NLP classifier identifying fake or spam reviews from text patterns |
 | 🔎 **Retrieval System** | Notebook-driven exploration of information retrieval & document ranking techniques |
 
-📫 More on my [portfolio site] and [GitHub repos](https://github.com/ManasaK-07?tab=repositories)
+📫 More on my [portfolio site] and [GitHub repos](https://github.com/Manasa-Mahendra?tab=repositories)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasaK-07&theme=tokyonight&hide_border=true" alt="Manasa's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasa-Mahendra&theme=tokyonight&hide_border=true" alt="Manasa's streak stats" />
 </p>
 
 ---
